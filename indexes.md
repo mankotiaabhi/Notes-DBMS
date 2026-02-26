@@ -115,3 +115,6 @@ Indexing reduces I/O cost by:
 | Used in | Non-clustered | Clustered |
 
 
+
+
+
